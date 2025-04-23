@@ -1,17 +1,17 @@
 # Copyright (2025) Beijing Volcano Engine Technology Ltd.
 # SPDX-License-Identifier: MIT
 
-SK = "WWpGaU9UWmxaR0l4WVdJNU5ETXpNR0UwTXpVNVltTmpNV0ZrTnpFMk5EUQ=="
-AK = "AKLTYmRiMTZkYjY1OTQ5NDZiOTg5NjBkYTNkZjc1NTFlMjE"
+SK = ""
+AK = ""
 
-RTC_APP_ID = "67f5ed30d58ccf017adfe8f9"
-RTC_APP_KEY = "2b1d4e07a28c47a4a88a1542c0fcb2ea"
+RTC_APP_ID = ""
+RTC_APP_KEY = ""
 
-DEFAULT_BOT_ID = "ep-m-20250410150135-d9csz"
-DEFAULT_VOICE_ID = "volcano_tts"
+DEFAULT_BOT_ID = ""
+DEFAULT_VOICE_ID = ""
 
-ASR_APP_ID = "4178176560"
-TTS_APP_ID = "4178176560"
+ASR_APP_ID = ""
+TTS_APP_ID = ""
 
 # 音频配置参数
 CHUNK = 1024      # 数据块大小
