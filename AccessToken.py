@@ -1,6 +1,3 @@
-# Copyright (2025) Beijing Volcano Engine Technology Ltd.
-# SPDX-License-Identifier: MIT
-
 # token生成代码来自 https://www.volcengine.com/docs/6348/70121
 # 其它语言可以通过上面的链接获取
 import base64
