@@ -1,6 +1,3 @@
-# Copyright (2025) Beijing Volcano Engine Technology Ltd.
-# SPDX-License-Identifier: MIT
-
 import http.server
 import socketserver
 import json
