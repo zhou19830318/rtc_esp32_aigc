@@ -1,6 +1,24 @@
-# Copyright (2025) Beijing Volcano Engine Technology Ltd.
-# SPDX-License-Identifier: MIT
+'''
+# 鉴权 AK/SK。前往 https://console.volcengine.com/iam/keymanage 获取
+AK = "yzitS6Kx0x*****fo08eYmYMhuTu"
+SK = "xZN65nz0CFZ******lWcAGsQPqmk"
 
+# 实时音视频 App ID。前往 https://console.volcengine.com/rtc/listRTC 获取或创建
+RTC_APP_ID = "678e1574*****b9389357"
+# 实时音视频 APP KEY。前往 https://console.volcengine.com/rtc/listRTC 获取
+RTC_APP_KEY = "dc7f8939d23*******bacf4a329"
+
+# 大模型推理接入点 EndPointId 前往 https://console.volcengine.com/ark/region:ark+cn-beijing/endpoint?config=%7B%7D 创建
+DEFAULT_BOT_ID = "ep-202******36-plsp5"
+# 音频生成-语音合成 Voice_type，前往 https://console.volcengine.com/speech/service/8 获取
+DEFAULT_VOICE_ID = "BV05******aming"
+
+# 语音识别-流式语音识别 APPID 前往 https://console.volcengine.com/speech/service/16 获取
+ASR_APP_ID = "274****256"
+# 音频生成-语音合成 APPID，前往 https://console.volcengine.com/speech/service/8 获取
+TTS_APP_ID = "274****256"
+
+'''
 SK = ""
 AK = ""
 
